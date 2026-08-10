@@ -1,0 +1,14 @@
+C:\Users\light\Documents\Codex\birthday-tactics-unity\Tools\StoryAcceptance\bin\Release\net10.0\StoryAcceptance.exe
+C:\Users\light\Documents\Codex\birthday-tactics-unity\Tools\StoryAcceptance\bin\Release\net10.0\StoryAcceptance.deps.json
+C:\Users\light\Documents\Codex\birthday-tactics-unity\Tools\StoryAcceptance\bin\Release\net10.0\StoryAcceptance.runtimeconfig.json
+C:\Users\light\Documents\Codex\birthday-tactics-unity\Tools\StoryAcceptance\bin\Release\net10.0\StoryAcceptance.dll
+C:\Users\light\Documents\Codex\birthday-tactics-unity\Tools\StoryAcceptance\bin\Release\net10.0\StoryAcceptance.pdb
+C:\Users\light\Documents\Codex\birthday-tactics-unity\Tools\StoryAcceptance\obj\Release\net10.0\StoryAcceptance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\light\Documents\Codex\birthday-tactics-unity\Tools\StoryAcceptance\obj\Release\net10.0\StoryAcceptance.AssemblyInfoInputs.cache
+C:\Users\light\Documents\Codex\birthday-tactics-unity\Tools\StoryAcceptance\obj\Release\net10.0\StoryAcceptance.AssemblyInfo.cs
+C:\Users\light\Documents\Codex\birthday-tactics-unity\Tools\StoryAcceptance\obj\Release\net10.0\StoryAcceptance.csproj.CoreCompileInputs.cache
+C:\Users\light\Documents\Codex\birthday-tactics-unity\Tools\StoryAcceptance\obj\Release\net10.0\StoryAcceptance.dll
+C:\Users\light\Documents\Codex\birthday-tactics-unity\Tools\StoryAcceptance\obj\Release\net10.0\refint\StoryAcceptance.dll
+C:\Users\light\Documents\Codex\birthday-tactics-unity\Tools\StoryAcceptance\obj\Release\net10.0\StoryAcceptance.pdb
+C:\Users\light\Documents\Codex\birthday-tactics-unity\Tools\StoryAcceptance\obj\Release\net10.0\StoryAcceptance.genruntimeconfig.cache
+C:\Users\light\Documents\Codex\birthday-tactics-unity\Tools\StoryAcceptance\obj\Release\net10.0\ref\StoryAcceptance.dll
