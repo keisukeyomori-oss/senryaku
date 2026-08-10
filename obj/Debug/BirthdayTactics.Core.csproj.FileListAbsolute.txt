@@ -1,0 +1,6 @@
+C:\Users\light\Documents\Codex\birthday-tactics-unity\Temp\bin\Debug\BirthdayTactics.Core.dll
+C:\Users\light\Documents\Codex\birthday-tactics-unity\Temp\bin\Debug\BirthdayTactics.Core.pdb
+C:\Users\light\Documents\Codex\birthday-tactics-unity\obj\Debug\BirthdayTactics.Core.csproj.AssemblyReference.cache
+C:\Users\light\Documents\Codex\birthday-tactics-unity\obj\Debug\BirthdayTactics.Core.csproj.CoreCompileInputs.cache
+C:\Users\light\Documents\Codex\birthday-tactics-unity\obj\Debug\BirthdayTactics.Core.dll
+C:\Users\light\Documents\Codex\birthday-tactics-unity\obj\Debug\BirthdayTactics.Core.pdb
