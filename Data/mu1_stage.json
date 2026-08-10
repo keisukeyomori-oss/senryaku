@@ -1,0 +1,33 @@
+{
+  "id": "mu1-border-road",
+  "displayName": "戦役I・国境の三道・訓練戦",
+  "sourceWarmapId": "w1",
+  "width": 7,
+  "height": 5,
+  "units": [
+    {
+      "id": "hero",
+      "displayName": "ケキハン",
+      "className": "knight",
+      "team": "player",
+      "x": 1,
+      "y": 2,
+      "maxHp": 32,
+      "moveRange": 1,
+      "attackRange": 1,
+      "damage": 9
+    },
+    {
+      "id": "e_knight",
+      "displayName": "敵・重騎士",
+      "className": "knight",
+      "team": "enemy",
+      "x": 5,
+      "y": 2,
+      "maxHp": 32,
+      "moveRange": 1,
+      "attackRange": 1,
+      "damage": 9
+    }
+  ]
+}
